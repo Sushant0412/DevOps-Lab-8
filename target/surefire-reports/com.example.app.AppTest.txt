@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.app.AppTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in com.example.app.AppTest
-testAdd  Time elapsed: 0.015 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: 2 + 3 should equal 5 ==> expected: <5> but was: <6>
-	at com.example.app.AppTest.testAdd(AppTest.java:17)
-
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.03 s - in com.example.app.AppTest
